@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(180deg, #85a7e1 0%, #d8dea9 67%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+
+.card {
+  width: 90vw;
+  min-width: 300px;
+  max-width: 730px;
+}
+
+.img-btn:active {
+  transform: scale(1.2);
+}
+
+button:active {
+  transform: scale(1.2);
+}
+
+th {
+  background-color: rgb(167, 214, 230);
+  border: 2px solid white;
+}
+
+button {
+  margin: 1rem;
+}
+@media screen and (max-width: 650px) {
+  button {
+    margin: 5px;
+  }
+  table {
+    font-size: 12px;
+  }
+}
+@media screen and (max-width: 500px) {
+  table {
+    font-size: 9px;
+  }
+  .img-btn {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}
