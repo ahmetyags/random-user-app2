@@ -1,4 +1,7 @@
-# random_user_app_2
+# Project-002 : Random User App-2 
+
+## Link
+<button><a href="https://random-userapp2.netlify.app">Go To Web Site</a></button>
 
 ## Description
 
@@ -13,4 +16,4 @@ Our goal in this project is to create Build a Random User App using ReactJS.
   - Build a random user App using ReactJS.
   - Fetch new user on NEW USER button click.
 
-<button><a href="https://random-userapp2.netlify.app">Go To Web Site</a></button>
+
